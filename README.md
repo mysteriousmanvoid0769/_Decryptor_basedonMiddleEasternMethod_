@@ -1,9 +1,7 @@
 # _Decryptor_basedonMiddleEasternMethod_
 this repository created in(on) 28.12.2024 01:42
 
-Спасибо за уточнение! Вот обновленная версия README.md с учетом того, что проект написан на C++:
 
----
 
 # Название проекта
 
