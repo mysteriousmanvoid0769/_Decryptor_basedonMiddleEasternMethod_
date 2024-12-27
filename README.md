@@ -22,13 +22,13 @@ this repository created in(on) 28.12.2024 01:42
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+   git clone https://github.com/mysteriousmanvoid0769/_Decryptor_basedonMiddleEasternMethod.git
    ```
 
 2. Перейдите в директорию с проектом:
 
    ```bash
-   cd yourprojectname
+   cd ...\_Decryptor_basedonMiddleEasternMethod
    ```
 
 3. Скомпилируйте проект:
@@ -36,7 +36,7 @@ this repository created in(on) 28.12.2024 01:42
    Если вы используете GCC:
 
    ```bash
-   g++ -o decryptor main.cpp
+   g++ main.cpp decrypt.cpp -o main
    ```
 
 4. Запустите программу:
