@@ -4,7 +4,7 @@
 
 int main(void){
 
-    setlocale(LC_ALL, "Russian"); //[2021-2022] А когда-то это было в Visual Studio 2019 в начале моего пути как программиста... 
+    setlocale(LC_ALL, "Russian");
 
 
     DECR_CLASS_ENG chiper_eng(_virtual_encryption_ENG(false));
